@@ -2,3 +2,5 @@ __pycache__/
 *.pyc
 engine_src.py
 __pycache__/
+spawnfix.cjs
+.compress-state/
